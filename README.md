@@ -8,7 +8,3 @@
  - Logging
  - Config
 
----
-
-### Deployed to Heroku
-### [And here's the bot](https://t.me/ArsezSubscribeCheckBot)
