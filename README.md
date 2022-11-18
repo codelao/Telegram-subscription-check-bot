@@ -1,4 +1,4 @@
-### Completed Python Telegram bot based on Aiogram🤖
+### Python Telegram bot based on Aiogram🤖
 ### Requirements:
  - Python
  - Aiogram
